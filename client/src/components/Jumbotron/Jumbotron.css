@@ -1,0 +1,10 @@
+.jumbotron {
+  background-color: rgb(156, 107, 107);
+  background-position: center;
+}
+
+.display-4,
+.lead {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
